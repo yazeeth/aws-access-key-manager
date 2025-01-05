@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#This script is developed by Yazeeth Najeeb
+#Version: 2.0.1
+
 AWS_USER=""
 
 # Welcome Banner
